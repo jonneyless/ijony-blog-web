@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  outline: 0;
+}
+
+:root {
+  --width-sidebar: 256px;
+  --width-main-body: 720px;
+  --gap-l: 16px;
+  --gap-p: 0.75rem;
+}
